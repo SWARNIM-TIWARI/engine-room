@@ -1,0 +1,43 @@
+{
+  "name": "engine-room",
+  "private": true,
+  "version": "1.0.0",
+  "description": "An interactive field guide to the 13 systems running underneath AI products.",
+  "author": "Swarnim Tiwari",
+  "license": "MIT",
+  "homepage": "https://frontier-advanced-ai.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWARNIM-TIWARI/engine-room.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SWARNIM-TIWARI/engine-room/issues"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "cuda",
+    "reinforcement-learning",
+    "federated-learning",
+    "knowledge-graph",
+    "causal-inference",
+    "interpretability",
+    "react",
+    "vite",
+    "learning-resources"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.2"
+  }
+}

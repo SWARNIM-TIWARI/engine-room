@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640" fill="none" role="img" aria-label="Engine Room, the 13 systems running underneath every AI product">
+  <defs>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="80"/>
+    </filter>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#c9c6ff"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="640" fill="#0b0b14"/>
+
+  <g filter="url(#blur)">
+    <circle cx="230" cy="130" r="220" fill="#7c3aed" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 110 60; -30 110; 0 0" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1070" cy="520" r="210" fill="#06b6d4" opacity="0.5">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -100 -60; 40 -110; 0 0" dur="19s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1020" cy="110" r="170" fill="#ec4899" opacity="0.42">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -70 80; 50 40; 0 0" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="260" cy="540" r="160" fill="#3b82f6" opacity="0.4">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 80 -50; -40 -80; 0 0" dur="18s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <rect width="1280" height="640" fill="url(#grid)"/>
+
+  <g font-family="'Plus Jakarta Sans','Segoe UI',Helvetica,Arial,sans-serif" text-anchor="middle">
+    <text x="640" y="218" font-size="17" font-weight="700" letter-spacing="7" fill="#8e8eb8">AN INTERACTIVE FIELD GUIDE</text>
+    <text x="640" y="344" font-size="124" font-weight="800" letter-spacing="-5" fill="url(#title)">Engine Room</text>
+    <text x="640" y="406" font-size="29" font-weight="500" fill="#b4b4d2">The 13 systems running underneath every AI product</text>
+  </g>
+
+  <g>
+    <circle cx="424" cy="478" r="7" fill="#818cf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="460" cy="478" r="7" fill="#c084fc"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0.25s" repeatCount="indefinite"/></circle>
+    <circle cx="496" cy="478" r="7" fill="#22d3ee"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0.5s" repeatCount="indefinite"/></circle>
+    <circle cx="532" cy="478" r="7" fill="#fb923c"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="0.75s" repeatCount="indefinite"/></circle>
+    <circle cx="568" cy="478" r="7" fill="#c084fc"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="604" cy="478" r="7" fill="#818cf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.25s" repeatCount="indefinite"/></circle>
+    <circle cx="640" cy="478" r="7" fill="#f472b6"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.5s" repeatCount="indefinite"/></circle>
+    <circle cx="676" cy="478" r="7" fill="#818cf8"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="1.75s" repeatCount="indefinite"/></circle>
+    <circle cx="712" cy="478" r="7" fill="#c084fc"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="2s" repeatCount="indefinite"/></circle>
+    <circle cx="748" cy="478" r="7" fill="#4ade80"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="2.25s" repeatCount="indefinite"/></circle>
+    <circle cx="784" cy="478" r="7" fill="#4ade80"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="478" r="7" fill="#fb923c"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="2.75s" repeatCount="indefinite"/></circle>
+    <circle cx="856" cy="478" r="7" fill="#fb923c"><animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" begin="3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <text x="640" y="588" text-anchor="middle" font-family="'Plus Jakarta Sans','Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="600" fill="#7878a0">by Swarnim Tiwari</text>
+</svg>
