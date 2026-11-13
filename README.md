@@ -29,7 +29,7 @@ There is endless content about what AI products can do and almost nothing about 
 
 ## How to use it
 
-1. Open the [live site](https://frontier-advanced-ai.vercel.app) and tap any card.
+1. Open the [live site](https://frontier-ai-swarnim.vercel.app/) and tap any card.
 2. Read the **Overview**. It starts with the idea, then what researchers are still stuck on.
 3. Swipe left or right (or tap the tabs) to jump to **Techniques** and **Code**.
 4. Scroll down in Overview for a live Wikipedia summary and a short list of books, papers and tools.
