@@ -15,7 +15,7 @@
 
 <br />
 
-[**Open the site**](https://frontier-advanced-ai.vercel.app) &nbsp;·&nbsp; [The 13 systems](#the-13-systems) &nbsp;·&nbsp; [Run it locally](#run-it-locally) &nbsp;·&nbsp; [Roadmap](#roadmap) &nbsp;·&nbsp; [Suggest a topic](../../issues/new?template=topic_suggestion.md)
+[**Open the site**](https://frontier-ai-swarnim.vercel.app/) &nbsp;·&nbsp; [The 13 systems](#the-13-systems) &nbsp;·&nbsp; [Run it locally](#run-it-locally) &nbsp;·&nbsp; [Roadmap](#roadmap) &nbsp;·&nbsp; [Suggest a topic](../../issues/new?template=topic_suggestion.md)
 
 </div>
 
