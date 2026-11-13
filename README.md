@@ -6,7 +6,7 @@
 
 <br />
 
-[![Live demo](https://img.shields.io/badge/live_demo-open_it-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://frontier-advanced-ai.vercel.app)
+[![Live demo](https://img.shields.io/badge/live_demo-open_it-4ade80?style=for-the-badge&logo=vercel&logoColor=white)](https://frontier-ai-swarnim.vercel.app/)
 [![Stars](https://img.shields.io/github/stars/SWARNIM-TIWARI/engine-room?style=for-the-badge&color=c084fc&logo=github)](https://github.com/SWARNIM-TIWARI/engine-room/stargazers)
 [![License: MIT](https://img.shields.io/badge/license-MIT-818cf8?style=for-the-badge)](LICENSE)
 [![React](https://img.shields.io/badge/React_18-22d3ee?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
